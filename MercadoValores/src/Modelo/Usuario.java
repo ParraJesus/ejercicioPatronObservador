@@ -1,8 +1,10 @@
-package mercadovalores;
+package Modelo;
 
 /**
  *
- * @author Jesus
+ * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
  */
 public class Usuario 
 {

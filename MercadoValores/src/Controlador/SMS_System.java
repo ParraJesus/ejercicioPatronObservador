@@ -1,10 +1,14 @@
-package mercadovalores;
+package Controlador;
 
+import Modelo.Usuario;
 import java.util.ArrayList;
+import Modelo.IObservador;
 
 /**
  *
- * @author Jesus
+ * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
  */
 public class SMS_System implements IObservador
 {

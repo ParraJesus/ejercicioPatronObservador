@@ -1,10 +1,15 @@
-package mercadovalores;
+package Vista;
 
+import Controlador.SMS_System;
+import Modelo.Accion;
+import Modelo.Usuario;
 import java.util.ArrayList;
 
 /**
  *
  * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
  */
 public class MercadoValores {
 

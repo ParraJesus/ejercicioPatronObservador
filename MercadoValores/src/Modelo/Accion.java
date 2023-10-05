@@ -1,10 +1,12 @@
-package mercadovalores;
+package Modelo;
 
 import java.util.ArrayList;
 
 /**
  *
- * @author Jesus
+ * @author Jesus Gabriel Parra Dugarte
+ * @author Elkin Ariel Morillo Quenguan
+ * 
  */
 public class Accion implements IObservable 
 {
