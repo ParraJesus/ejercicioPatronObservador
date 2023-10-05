@@ -1,5 +1,7 @@
 package Modelo;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Jesus Gabriel Parra Dugarte
@@ -8,5 +10,6 @@ package Modelo;
  */
 public interface IObservador 
 {
+    
     public void actualizar();
 }
